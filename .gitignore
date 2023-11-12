@@ -1,0 +1,6 @@
+# Игнорировать папку library внутри папки assets
+Assets/Library/
+Assets/Logs/
+Assets/Packages/
+Assets/ProjectSettings/
+Assets/UserSettings/
